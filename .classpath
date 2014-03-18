@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/home/user/workspace/EScribe/mysql-connector-java-5.1.18-bin.jar"/>
+	<classpathentry kind="lib" path="/home/user/workspace/EScribe/freetts-1.2.2-bin/freetts-1.2/lib/cmudict04.jar"/>
+	<classpathentry kind="lib" path="/home/user/workspace/EScribe/freetts-1.2.2-bin/freetts-1.2/lib/cmulex.jar"/>
+	<classpathentry kind="lib" path="/home/user/workspace/EScribe/freetts-1.2.2-bin/freetts-1.2/lib/cmu_time_awb.jar"/>
+	<classpathentry kind="lib" path="/home/user/workspace/EScribe/freetts-1.2.2-bin/freetts-1.2/lib/cmutimelex.jar"/>
+	<classpathentry kind="lib" path="/home/user/workspace/EScribe/freetts-1.2.2-bin/freetts-1.2/lib/cmu_us_kal.jar"/>
+	<classpathentry kind="lib" path="/home/user/workspace/EScribe/freetts-1.2.2-bin/freetts-1.2/lib/en_us.jar"/>
+	<classpathentry kind="lib" path="/home/user/workspace/EScribe/freetts-1.2.2-bin/freetts-1.2/lib/freetts.jar"/>
+	<classpathentry kind="lib" path="/home/user/workspace/EScribe/freetts-1.2.2-bin/freetts-1.2/lib/freetts-jsapi10.jar"/>
+	<classpathentry kind="lib" path="/home/user/workspace/EScribe/freetts-1.2.2-bin/freetts-1.2/lib/jsapi.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/home/user/workspace/EScribe/freetts-1.2.2-bin/freetts-1.2/mbrola/mbrola.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

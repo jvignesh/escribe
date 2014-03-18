@@ -1,0 +1,13 @@
+1)  chmod u+x jsapi.sh inside $path/lib/
+2)  ./jsapi.sh 
+3)  Build the 10 extracted jar's into the build path as external jar's
+4)  sudo apt-get install freetts
+5)  sudo apt-get install mbrola
+6)  download mbr301h.zip
+7)  chmod a+x mbrola-linux-i386
+8)  
+
+
+References:
+1) http://espeak.sourceforge.net/mbrola.html
+2) 
